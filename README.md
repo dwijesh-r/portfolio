@@ -8,6 +8,7 @@
 **Master's in Business Analytics | University of Illinois, Urbana-Champaign**
 
 _GPA_: 3.92
+
 _Relevant Coursework_: Marketing Analytics, Big Data Analytics, Data Storytelling, Data Science and Analytics, Business Intelligence
 
 ## Professional Experience
