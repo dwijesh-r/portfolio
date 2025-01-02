@@ -8,7 +8,7 @@
 
 ## Education
 
-**Master's in Business Analytics | University of Illinois, Urbana-Champaign**
+**Master's in Business Analytics, University of Illinois, Urbana-Champaign**
 
 - _GPA_: 3.92
 - _Relevant Coursework_: Marketing Analytics, Big Data Analytics, Data Storytelling, Data Science and Analytics, Business Intelligence
@@ -44,7 +44,7 @@
 
 ## Projects
 
-**Predictive Modeling for Property Valuation** [https://github.com/dwijesh-r/projects/tree/main/property-valuation]
+**[Predictive Modeling for Property Valuation]** [https://github.com/dwijesh-r/projects/tree/main/property-valuation]
 
 Developed and evaluated predictive models to estimate property sale prices using machine learning techniques. The project streamlined data preprocessing, analysis, and prediction to achieve actionable insights.
 
@@ -55,7 +55,7 @@ _Key Insights_:
 
 Tools & Skills Used: R, Correlation Analysis, Regression Modeling, Random Forest, LASSO Regression, Data Visualization, Feature Engineering, Predictive Modeling
 
-**Consumer Segmentation Using K-Means Clustering** [https://github.com/dwijesh-r/projects/tree/main/customer-segmentation]
+**[Consumer Segmentation Using K-Means Clustering]** [https://github.com/dwijesh-r/projects/tree/main/customer-segmentation]
 
 Analyzed consumer spending and demographics using K-Means clustering to identify key customer segments. The project provided actionable insights for personalized marketing strategies.
 
@@ -66,7 +66,7 @@ _Key Insights_:
 
 Tools & Skills Used: Python, Excel, Pandas, NumPy, Matplotlib, Scikit-learn, EDA, K-Means Clustering, RFM Analysis, Cluster Profiling, Business Intelligence Reporting
 
-**Predicting Stock Movement for S&P 500 using Machine Learning** [https://github.com/dwijesh-r/projects/tree/main/stockprediction]
+**[Predicting Stock Movement for S&P 500 using Machine Learning]** [https://github.com/dwijesh-r/projects/tree/main/stockprediction]
 
 Built a predictive model to forecast S&P 500 stock prices using historical market data. The project utilized time series analysis and machine learning techniques to identify trends and patterns.
 
