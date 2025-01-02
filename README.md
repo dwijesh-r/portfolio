@@ -1,16 +1,18 @@
+# Data Analyst Portfolio & Resume
+
 ## Tools, Skill Sets & Certifications
 - **Data and Analytics Tools**: Python, SQL, Tableau, Jupyter, Power BI, Google Analytics, Mixpanel, Metabase, KNIME, Postman, Snowflake, R, Looker, Airflow, Microsoft Excel, Retool, Hadoop, Salesforce.
 - **Project Management & Cloud Tools**: Asana, Jira, Microsoft Teams, AWS, Azure, Slack, Notion.
 - **Skills**: Data Wrangling, Statistical Modeling, Data Visualization, Data Storytelling, Communication, Experimentation Frameworks, Strategy Development, Customer Segmentation, User Insights, Product Optimization.
 - **Certifications**: Microsoft Certified: Azure Fundamentals, Project Management Foundations & Python Data Analysis.
 
-## Education
+##Education
 **Master's in Business Analytics | University of Illinois, Urbana-Champaign**
 
 - _GPA_: 3.92
 - _Relevant Coursework_: Marketing Analytics, Big Data Analytics, Data Storytelling, Data Science and Analytics, Business Intelligence
 
-## Professional Experience
+##Professional Experience
 **Associate Director - Sports Operations | Sixer Game | Chicago, IL 
 (_May 2024 - Present_)**
 - Directed a team of six to build real-time analytics pipelines and dashboards in Metabase, reducing latency by 40% and improving risk management and resource allocation decisions.
@@ -38,3 +40,27 @@
 - Streamlined visual reporting for technical and leadership teams using Looker and Asana, aligning product goals and accelerating decision-making timelines.
 - Analyzed customer trading patterns with advanced SQL (e.g., window functions, CTEs) in Metabase, identifying actionable insights that decreased trading risks by 9% and increased net margins by 4%.
 
+##Projects
+**Predictive Modeling for Property Valuation**
+
+Developed and evaluated predictive models to estimate property sale prices using machine learning techniques. The project streamlined data preprocessing, analysis, and prediction to achieve actionable insights.
+_Key Insights_:
+- Random Forest outperformed Linear and Lasso Regression models in predicting property values with higher accuracy and reduced error margins.
+- Highlighted significant predictors such as building square footage and tax rates that impact property sale prices.
+Tools & Skills Used: R, Correlation Analysis, Regression Modeling, Random Forest, LASSO Regression, Data Visualization, Feature Engineering, Predictive Modeling
+
+**Consumer Segmentation Using K-Means Clustering**
+
+Analyzed consumer spending and demographics using K-Means clustering to identify key customer segments. The project provided actionable insights for personalized marketing strategies.
+_Key Insights_:
+- Identified three distinct customer segments (low-spending, high-spending, and moderate-spending) with unique spending behaviors and demographics.
+- High-spending customers showed strong loyalty to premium products, particularly wine and meat, offering opportunities for targeted marketing.
+Tools & Skills Used: Python, Excel, Pandas, NumPy, Matplotlib, Scikit-learn, EDA, K-Means Clustering, RFM Analysis, Cluster Profiling, Business Intelligence Reporting
+
+**Predicting Stock Movement for S&P 500 using Machine Learning**
+
+Built a predictive model to forecast S&P 500 stock prices using historical market data. The project utilized time series analysis and machine learning techniques to identify trends and patterns.
+_Key Insights_:
+- Implemented and optimized models like Random Forest, achieving reliable predictions for short-term stock movements.
+- Highlighted significant market trends that correlate with economic indicators, improving the understanding of stock dynamics.
+Tools & Skills Used: Python, Pandas, Scikit-learn, Time Series Analysis, Random Forest, Model Evaluation, Financial Analysis, Data Preprocessing
